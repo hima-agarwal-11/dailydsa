@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/hima-agarwal-11/dailydsa/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/0203-remove-linked-list-elements) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/hima-agarwal-11/dailydsa/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
