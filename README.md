@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hima-agarwal-11/dailydsa/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hima-agarwal-11/dailydsa/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
