@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0202-happy-number) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0328-odd-even-linked-list) |
