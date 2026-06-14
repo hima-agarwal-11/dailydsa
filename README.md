@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/hima-agarwal-11/dailydsa/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/hima-agarwal-11/dailydsa/tree/master/0400-nth-digit) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hima-agarwal-11/dailydsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hima-agarwal-11/dailydsa/tree/master/0066-plus-one) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1822-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
