@@ -74,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/hima-agarwal-11/dailydsa/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/hima-agarwal-11/dailydsa/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
