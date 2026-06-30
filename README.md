@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/hima-agarwal-11/dailydsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/hima-agarwal-11/dailydsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0283-move-zeroes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hima-agarwal-11/dailydsa/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hima-agarwal-11/dailydsa/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -161,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/hima-agarwal-11/dailydsa/tree/master/0404-sum-of-left-leaves) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
