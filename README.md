@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hima-agarwal-11/dailydsa/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hima-agarwal-11/dailydsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/hima-agarwal-11/dailydsa/tree/master/0168-excel-sheet-column-title) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hima-agarwal-11/dailydsa/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/hima-agarwal-11/dailydsa/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hima-agarwal-11/dailydsa/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hima-agarwal-11/dailydsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
