@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0633-sum-of-square-numbers) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/hima-agarwal-11/dailydsa/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/hima-agarwal-11/dailydsa/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/hima-agarwal-11/dailydsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hima-agarwal-11/dailydsa/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
