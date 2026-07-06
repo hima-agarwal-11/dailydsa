@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/hima-agarwal-11/dailydsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/hima-agarwal-11/dailydsa/tree/master/0224-basic-calculator) |
+| [0434-number-of-segments-in-a-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0434-number-of-segments-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/2697-lexicographically-smallest-palindrome) |
