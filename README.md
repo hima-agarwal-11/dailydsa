@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hima-agarwal-11/dailydsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hima-agarwal-11/dailydsa/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hima-agarwal-11/dailydsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
