@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/hima-agarwal-11/dailydsa/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/hima-agarwal-11/dailydsa/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0633-sum-of-square-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hima-agarwal-11/dailydsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hima-agarwal-11/dailydsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hima-agarwal-11/dailydsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hima-agarwal-11/dailydsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
