@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/hima-agarwal-11/dailydsa/tree/master/0224-basic-calculator) |
 | [0319-bulb-switcher](https://github.com/hima-agarwal-11/dailydsa/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/hima-agarwal-11/dailydsa/tree/master/0400-nth-digit) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/hima-agarwal-11/dailydsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/hima-agarwal-11/dailydsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0283-move-zeroes) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
@@ -312,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hima-agarwal-11/dailydsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hima-agarwal-11/dailydsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
