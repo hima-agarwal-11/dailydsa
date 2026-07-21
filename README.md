@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/hima-agarwal-11/dailydsa/tree/master/0224-basic-calculator) |
 | [0319-bulb-switcher](https://github.com/hima-agarwal-11/dailydsa/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/hima-agarwal-11/dailydsa/tree/master/0400-nth-digit) |
+| [0478-generate-random-point-in-a-circle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0478-generate-random-point-in-a-circle) |
 | [0633-sum-of-square-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hima-agarwal-11/dailydsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hima-agarwal-11/dailydsa/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -323,4 +324,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0478-generate-random-point-in-a-circle) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0478-generate-random-point-in-a-circle) |
+## Randomized
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
