@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hima-agarwal-11/dailydsa/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0997-find-the-town-judge](https://github.com/hima-agarwal-11/dailydsa/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hima-agarwal-11/dailydsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0287-find-the-duplicate-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0832-flipping-an-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0832-flipping-an-image) |
 | [0997-find-the-town-judge](https://github.com/hima-agarwal-11/dailydsa/tree/master/0997-find-the-town-judge) |
 | [1250-check-if-it-is-a-good-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1250-check-if-it-is-a-good-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hima-agarwal-11/dailydsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hima-agarwal-11/dailydsa/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hima-agarwal-11/dailydsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hima-agarwal-11/dailydsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Enumeration
