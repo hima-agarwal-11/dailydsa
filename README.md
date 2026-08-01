@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Geometry
 |  |
 | ------- |
