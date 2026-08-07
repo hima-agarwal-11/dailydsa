@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/hima-agarwal-11/dailydsa/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/hima-agarwal-11/dailydsa/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/hima-agarwal-11/dailydsa/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/hima-agarwal-11/dailydsa/tree/master/0441-arranging-coins) |
 | [0478-generate-random-point-in-a-circle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0478-generate-random-point-in-a-circle) |
 | [0492-construct-the-rectangle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0633-sum-of-square-numbers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hima-agarwal-11/dailydsa/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0287-find-the-duplicate-number) |
 | [0400-nth-digit](https://github.com/hima-agarwal-11/dailydsa/tree/master/0400-nth-digit) |
+| [0441-arranging-coins](https://github.com/hima-agarwal-11/dailydsa/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0633-sum-of-square-numbers) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
