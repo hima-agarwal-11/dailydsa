@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hima-agarwal-11/dailydsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0866-prime-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0866-prime-palindrome) |
 | [0976-largest-perimeter-triangle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hima-agarwal-11/dailydsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/hima-agarwal-11/dailydsa/tree/master/1103-distribute-candies-to-people) |
 | [1175-prime-arrangements](https://github.com/hima-agarwal-11/dailydsa/tree/master/1175-prime-arrangements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/hima-agarwal-11/dailydsa/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hima-agarwal-11/dailydsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
+| [1025-divisor-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/1025-divisor-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -388,4 +391,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0976-largest-perimeter-triangle) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
