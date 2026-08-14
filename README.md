@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hima-agarwal-11/dailydsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hima-agarwal-11/dailydsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/hima-agarwal-11/dailydsa/tree/master/1952-three-divisors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0866-prime-palindrome) |
 | [1250-check-if-it-is-a-good-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1250-check-if-it-is-a-good-array) |
+| [1952-three-divisors](https://github.com/hima-agarwal-11/dailydsa/tree/master/1952-three-divisors) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/hima-agarwal-11/dailydsa/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Geometry
 |  |
@@ -399,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/1025-divisor-game) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/hima-agarwal-11/dailydsa/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/hima-agarwal-11/dailydsa/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
