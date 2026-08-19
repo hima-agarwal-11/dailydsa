@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/hima-agarwal-11/dailydsa/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/hima-agarwal-11/dailydsa/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/hima-agarwal-11/dailydsa/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hima-agarwal-11/dailydsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/1009-complement-of-base-10-integer) |
