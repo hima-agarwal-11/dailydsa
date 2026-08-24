@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/hima-agarwal-11/dailydsa/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/hima-agarwal-11/dailydsa/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0832-flipping-an-image) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/hima-agarwal-11/dailydsa/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Simulation
 |  |
 | ------- |
@@ -420,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/hima-agarwal-11/dailydsa/tree/master/1952-three-divisors) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/hima-agarwal-11/dailydsa/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
