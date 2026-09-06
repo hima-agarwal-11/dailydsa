@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/hima-agarwal-11/dailydsa/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hima-agarwal-11/dailydsa/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/hima-agarwal-11/dailydsa/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hima-agarwal-11/dailydsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Brainteaser
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Tree
 |  |
 | ------- |
