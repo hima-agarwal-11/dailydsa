@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hima-agarwal-11/dailydsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/hima-agarwal-11/dailydsa/tree/master/1952-three-divisors) |
+| [2485-find-the-pivot-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hima-agarwal-11/dailydsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1480-running-sum-of-1d-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hima-agarwal-11/dailydsa/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2485-find-the-pivot-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3904-smallest-stable-index-ii) |
 ## Counting Sort
