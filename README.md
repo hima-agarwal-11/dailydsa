@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3340-check-balanced-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/3340-check-balanced-string) |
 ## Binary Search
 |  |
 | ------- |
