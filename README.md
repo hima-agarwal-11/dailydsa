@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hima-agarwal-11/dailydsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/hima-agarwal-11/dailydsa/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hima-agarwal-11/dailydsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [0976-largest-perimeter-triangle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0976-largest-perimeter-triangle) |
+| [1323-maximum-69-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/1328-break-a-palindrome) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/2697-lexicographically-smallest-palindrome) |
