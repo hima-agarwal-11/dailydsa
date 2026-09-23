@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0997-find-the-town-judge](https://github.com/hima-agarwal-11/dailydsa/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hima-agarwal-11/dailydsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hima-agarwal-11/dailydsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Math
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hima-agarwal-11/dailydsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/hima-agarwal-11/dailydsa/tree/master/1572-matrix-diagonal-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hima-agarwal-11/dailydsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-decode-xored-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1720-decode-xored-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1929-concatenation-of-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/hima-agarwal-11/dailydsa/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hima-agarwal-11/dailydsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hima-agarwal-11/dailydsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hima-agarwal-11/dailydsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hima-agarwal-11/dailydsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hima-agarwal-11/dailydsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Enumeration
 |  |
 | ------- |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/hima-agarwal-11/dailydsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hima-agarwal-11/dailydsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hima-agarwal-11/dailydsa/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/3903-smallest-stable-index-i) |
