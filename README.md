@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/hima-agarwal-11/dailydsa/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/hima-agarwal-11/dailydsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/hima-agarwal-11/dailydsa/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/hima-agarwal-11/dailydsa/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hima-agarwal-11/dailydsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/hima-agarwal-11/dailydsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/hima-agarwal-11/dailydsa/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/hima-agarwal-11/dailydsa/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/hima-agarwal-11/dailydsa/tree/master/0844-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/hima-agarwal-11/dailydsa/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/hima-agarwal-11/dailydsa/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1929-concatenation-of-array) |
