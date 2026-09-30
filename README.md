@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/hima-agarwal-11/dailydsa/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0997-find-the-town-judge](https://github.com/hima-agarwal-11/dailydsa/tree/master/0997-find-the-town-judge) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/hima-agarwal-11/dailydsa/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/hima-agarwal-11/dailydsa/tree/master/0412-fizz-buzz) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/hima-agarwal-11/dailydsa/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/hima-agarwal-11/dailydsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0922-sort-array-by-parity-ii) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hima-agarwal-11/dailydsa/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/hima-agarwal-11/dailydsa/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/hima-agarwal-11/dailydsa/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/hima-agarwal-11/dailydsa/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/hima-agarwal-11/dailydsa/tree/master/0693-binary-number-with-alternating-bits) |
