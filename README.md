@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/hima-agarwal-11/dailydsa/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/hima-agarwal-11/dailydsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hima-agarwal-11/dailydsa/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0125-valid-palindrome) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hima-agarwal-11/dailydsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -521,5 +523,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
