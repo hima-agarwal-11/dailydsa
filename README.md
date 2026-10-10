@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hima-agarwal-11/dailydsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/hima-agarwal-11/dailydsa/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hima-agarwal-11/dailydsa/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/hima-agarwal-11/dailydsa/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hima-agarwal-11/dailydsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hima-agarwal-11/dailydsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/hima-agarwal-11/dailydsa/tree/master/1051-height-checker) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/hima-agarwal-11/dailydsa/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3467-transform-array-by-parity](https://github.com/hima-agarwal-11/dailydsa/tree/master/3467-transform-array-by-parity) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/1328-break-a-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
