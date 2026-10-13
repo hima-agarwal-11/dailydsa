@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/hima-agarwal-11/dailydsa/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/hima-agarwal-11/dailydsa/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hima-agarwal-11/dailydsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hima-agarwal-11/dailydsa/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/hima-agarwal-11/dailydsa/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hima-agarwal-11/dailydsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hima-agarwal-11/dailydsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
