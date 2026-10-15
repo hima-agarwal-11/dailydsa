@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hima-agarwal-11/dailydsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hima-agarwal-11/dailydsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3467-transform-array-by-parity](https://github.com/hima-agarwal-11/dailydsa/tree/master/3467-transform-array-by-parity) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hima-agarwal-11/dailydsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -552,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
