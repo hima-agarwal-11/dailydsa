@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hima-agarwal-11/dailydsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/hima-agarwal-11/dailydsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hima-agarwal-11/dailydsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hima-agarwal-11/dailydsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hima-agarwal-11/dailydsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/1528-shuffle-string) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/hima-agarwal-11/dailydsa/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hima-agarwal-11/dailydsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/hima-agarwal-11/dailydsa/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hima-agarwal-11/dailydsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hima-agarwal-11/dailydsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hima-agarwal-11/dailydsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/1009-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hima-agarwal-11/dailydsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1720-decode-xored-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
