@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2578-split-with-minimum-sum](https://github.com/hima-agarwal-11/dailydsa/tree/master/2578-split-with-minimum-sum) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hima-agarwal-11/dailydsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/hima-agarwal-11/dailydsa/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2578-split-with-minimum-sum](https://github.com/hima-agarwal-11/dailydsa/tree/master/2578-split-with-minimum-sum) |
 | [3467-transform-array-by-parity](https://github.com/hima-agarwal-11/dailydsa/tree/master/3467-transform-array-by-parity) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/hima-agarwal-11/dailydsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/1328-break-a-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2578-split-with-minimum-sum](https://github.com/hima-agarwal-11/dailydsa/tree/master/2578-split-with-minimum-sum) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
