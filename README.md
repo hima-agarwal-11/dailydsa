@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hima-agarwal-11/dailydsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/hima-agarwal-11/dailydsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hima-agarwal-11/dailydsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hima-agarwal-11/dailydsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/hima-agarwal-11/dailydsa/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/hima-agarwal-11/dailydsa/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/hima-agarwal-11/dailydsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hima-agarwal-11/dailydsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hima-agarwal-11/dailydsa/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/hima-agarwal-11/dailydsa/tree/master/0404-sum-of-left-leaves) |
 | [1254-number-of-closed-islands](https://github.com/hima-agarwal-11/dailydsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hima-agarwal-11/dailydsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hima-agarwal-11/dailydsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hima-agarwal-11/dailydsa/tree/master/1572-matrix-diagonal-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hima-agarwal-11/dailydsa/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hima-agarwal-11/dailydsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -590,4 +594,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/hima-agarwal-11/dailydsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hima-agarwal-11/dailydsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
