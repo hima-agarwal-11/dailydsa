@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hima-agarwal-11/dailydsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/hima-agarwal-11/dailydsa/tree/master/1103-distribute-candies-to-people) |
+| [1137-n-th-tribonacci-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/1137-n-th-tribonacci-number) |
 | [1175-prime-arrangements](https://github.com/hima-agarwal-11/dailydsa/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/hima-agarwal-11/dailydsa/tree/master/1185-day-of-the-week) |
 | [1250-check-if-it-is-a-good-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1250-check-if-it-is-a-good-array) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/1137-n-th-tribonacci-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hima-agarwal-11/dailydsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
@@ -599,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/hima-agarwal-11/dailydsa/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hima-agarwal-11/dailydsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
