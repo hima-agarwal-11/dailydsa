@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/hima-agarwal-11/dailydsa/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3340-check-balanced-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/3340-check-balanced-string) |
+| [3407-substring-matching-pattern](https://github.com/hima-agarwal-11/dailydsa/tree/master/3407-substring-matching-pattern) |
 ## Binary Search
 |  |
 | ------- |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0796-rotate-string) |
+| [3407-substring-matching-pattern](https://github.com/hima-agarwal-11/dailydsa/tree/master/3407-substring-matching-pattern) |
 ## Trie
 |  |
 | ------- |
