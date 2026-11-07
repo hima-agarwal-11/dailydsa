@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hima-agarwal-11/dailydsa/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/hima-agarwal-11/dailydsa/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0997-find-the-town-judge](https://github.com/hima-agarwal-11/dailydsa/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hima-agarwal-11/dailydsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hima-agarwal-11/dailydsa/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0500-keyboard-row](https://github.com/hima-agarwal-11/dailydsa/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/hima-agarwal-11/dailydsa/tree/master/0724-find-pivot-index) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/hima-agarwal-11/dailydsa/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/hima-agarwal-11/dailydsa/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/hima-agarwal-11/dailydsa/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/hima-agarwal-11/dailydsa/tree/master/0709-to-lower-case) |
