@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/hima-agarwal-11/dailydsa/tree/master/1051-height-checker) |
 | [1250-check-if-it-is-a-good-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1254-number-of-closed-islands](https://github.com/hima-agarwal-11/dailydsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hima-agarwal-11/dailydsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/hima-agarwal-11/dailydsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hima-agarwal-11/dailydsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hima-agarwal-11/dailydsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
+| [1267-count-servers-that-communicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hima-agarwal-11/dailydsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/hima-agarwal-11/dailydsa/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/hima-agarwal-11/dailydsa/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/hima-agarwal-11/dailydsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hima-agarwal-11/dailydsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hima-agarwal-11/dailydsa/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/hima-agarwal-11/dailydsa/tree/master/0404-sum-of-left-leaves) |
 | [1254-number-of-closed-islands](https://github.com/hima-agarwal-11/dailydsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hima-agarwal-11/dailydsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0832-flipping-an-image) |
 | [1254-number-of-closed-islands](https://github.com/hima-agarwal-11/dailydsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hima-agarwal-11/dailydsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hima-agarwal-11/dailydsa/tree/master/1572-matrix-diagonal-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hima-agarwal-11/dailydsa/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -618,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/hima-agarwal-11/dailydsa/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/hima-agarwal-11/dailydsa/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hima-agarwal-11/dailydsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
