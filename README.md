@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/hima-agarwal-11/dailydsa/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
+| [0804-unique-morse-code-words](https://github.com/hima-agarwal-11/dailydsa/tree/master/0804-unique-morse-code-words) |
 | [0997-find-the-town-judge](https://github.com/hima-agarwal-11/dailydsa/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hima-agarwal-11/dailydsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hima-agarwal-11/dailydsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/hima-agarwal-11/dailydsa/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/hima-agarwal-11/dailydsa/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/hima-agarwal-11/dailydsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0922-sort-array-by-parity-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/hima-agarwal-11/dailydsa/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/hima-agarwal-11/dailydsa/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/hima-agarwal-11/dailydsa/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hima-agarwal-11/dailydsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
