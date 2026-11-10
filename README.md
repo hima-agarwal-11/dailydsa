@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/hima-agarwal-11/dailydsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hima-agarwal-11/dailydsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hima-agarwal-11/dailydsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hima-agarwal-11/dailydsa/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/1137-n-th-tribonacci-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3693-climbing-stairs-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/hima-agarwal-11/dailydsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
