@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/hima-agarwal-11/dailydsa/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hima-agarwal-11/dailydsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hima-agarwal-11/dailydsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3467-transform-array-by-parity](https://github.com/hima-agarwal-11/dailydsa/tree/master/3467-transform-array-by-parity) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hima-agarwal-11/dailydsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
