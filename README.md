@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hima-agarwal-11/dailydsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/hima-agarwal-11/dailydsa/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3340-check-balanced-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/3340-check-balanced-string) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/hima-agarwal-11/dailydsa/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hima-agarwal-11/dailydsa/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
