@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/hima-agarwal-11/dailydsa/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/hima-agarwal-11/dailydsa/tree/master/2409-count-days-spent-together) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hima-agarwal-11/dailydsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/hima-agarwal-11/dailydsa/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/hima-agarwal-11/dailydsa/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hima-agarwal-11/dailydsa/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hima-agarwal-11/dailydsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hima-agarwal-11/dailydsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2601-prime-subtraction-operation](https://github.com/hima-agarwal-11/dailydsa/tree/master/2601-prime-subtraction-operation) |
