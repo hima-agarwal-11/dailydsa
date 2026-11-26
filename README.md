@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hima-agarwal-11/dailydsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0500-keyboard-row](https://github.com/hima-agarwal-11/dailydsa/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/hima-agarwal-11/dailydsa/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/hima-agarwal-11/dailydsa/tree/master/0724-find-pivot-index) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hima-agarwal-11/dailydsa/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/hima-agarwal-11/dailydsa/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/hima-agarwal-11/dailydsa/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/hima-agarwal-11/dailydsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/hima-agarwal-11/dailydsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/hima-agarwal-11/dailydsa/tree/master/0922-sort-array-by-parity-ii) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/hima-agarwal-11/dailydsa/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/hima-agarwal-11/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hima-agarwal-11/dailydsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/hima-agarwal-11/dailydsa/tree/master/0976-largest-perimeter-triangle) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/hima-agarwal-11/dailydsa/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/hima-agarwal-11/dailydsa/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
