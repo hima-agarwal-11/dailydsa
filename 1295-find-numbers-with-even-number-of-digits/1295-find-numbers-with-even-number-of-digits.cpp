@@ -1,18 +1,22 @@
 class Solution {
 public:
-int countdigits(int num){
+bool even(int n ){
     int cnt=0;
-    while(num>0){
-        num/=10;
+    while(n>0){
+        n=n/10;
         cnt++;
     }
-    return cnt;
+    if(cnt%2==0)
+    return true;
+    else 
+    return false;
 }
     int findNumbers(vector<int>& nums) {
-        int c=0;
+        int cnt=0;
         for(int i =0;i<nums.size();i++){
-            if(countdigits(nums[i])%2==0)
-            c++;
-        }return c;
+            if(even(nums[i]))
+            cnt++;
+        }
+        return cnt;
     }
 };
