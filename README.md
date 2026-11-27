@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hima-agarwal-11/dailydsa/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/hima-agarwal-11/dailydsa/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/hima-agarwal-11/dailydsa/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/hima-agarwal-11/dailydsa/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/hima-agarwal-11/dailydsa/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/hima-agarwal-11/dailydsa/tree/master/0412-fizz-buzz) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hima-agarwal-11/dailydsa/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/hima-agarwal-11/dailydsa/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/hima-agarwal-11/dailydsa/tree/master/0866-prime-palindrome) |
 | [1250-check-if-it-is-a-good-array](https://github.com/hima-agarwal-11/dailydsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1952-three-divisors](https://github.com/hima-agarwal-11/dailydsa/tree/master/1952-three-divisors) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hima-agarwal-11/dailydsa/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hima-agarwal-11/dailydsa/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/hima-agarwal-11/dailydsa/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/hima-agarwal-11/dailydsa/tree/master/0832-flipping-an-image) |
